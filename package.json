@@ -1,5 +1,10 @@
 {
   "name": "jest-matcher-one-of",
+  "description": "A Jest matcher to test if a value is one of many (like enums)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4nyll/jest-matcher-one-of.git"
+  },
   "version": "0.1.0",
   "main": "src/index.js",
   "author": "Daniel Li <dan@danyll.com>",
@@ -12,5 +17,13 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "keywords": [
+    "jest",
+    "matcher",
+    "test",
+    "tests",
+    "testing",
+    "tdd"
+  ]
 }
