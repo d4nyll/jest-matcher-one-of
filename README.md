@@ -1,5 +1,7 @@
 # jest-matcher-one-of
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/d4nyll/jest-matcher-one-of.svg)](https://greenkeeper.io/)
+
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/RsafjPW16XoFBW5YtJcMdsmm/d4nyll/jest-matcher-one-of'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/RsafjPW16XoFBW5YtJcMdsmm/d4nyll/jest-matcher-one-of.svg' />
 </a>
