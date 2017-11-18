@@ -1,0 +1,16 @@
+{
+  "name": "jest-matcher-one-of",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": "Daniel Li <dan@danyll.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "engines": {
+    "node" : ">6.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
