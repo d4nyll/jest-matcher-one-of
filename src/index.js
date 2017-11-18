@@ -1,21 +1,18 @@
 expect.extend({
   toBeOneOf(received, argument) {
-    if(!Array.isArray(argument)) {
-      argument = [argument];
-    }
-    const pass = argument.includes(received);
+    const validValues = Array.isArray(argument) ? argument : [argument];
+    const pass = validValues.includes(received);
     if (pass) {
       return {
         message: () => (
-          `expected ${received} not to be one of [${argument.join(', ')}]`
+          `expected ${received} not to be one of [${validValues.join(', ')}]`
         ),
         pass: true,
       };
-    } else {
-      return {
-        message: () => (`expected ${received} to be one of [${argument.join(', ')}]`),
-        pass: false,
-      };
     }
+    return {
+      message: () => (`expected ${received} to be one of [${validValues.join(', ')}]`),
+      pass: false,
+    };
   },
 });
