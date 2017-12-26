@@ -1,9 +1,5 @@
 # jest-matcher-one-of
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/RsafjPW16XoFBW5YtJcMdsmm/d4nyll/jest-matcher-one-of'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/RsafjPW16XoFBW5YtJcMdsmm/d4nyll/jest-matcher-one-of.svg' />
-</a>
-
 [![Build Status](https://travis-ci.org/d4nyll/jest-matcher-one-of.svg?branch=master)](https://travis-ci.org/d4nyll/jest-matcher-one-of) [![codecov](https://codecov.io/gh/d4nyll/jest-matcher-one-of/branch/master/graph/badge.svg)](https://codecov.io/gh/d4nyll/jest-matcher-one-of) [![Test Coverage](https://api.codeclimate.com/v1/badges/d301a1416e9ef124382f/test_coverage)](https://codeclimate.com/github/d4nyll/jest-matcher-one-of/test_coverage) [![CodeFactor](https://www.codefactor.io/repository/github/d4nyll/jest-matcher-one-of/badge)](https://www.codefactor.io/repository/github/d4nyll/jest-matcher-one-of) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ab3b405ea4c4c9297759dce2cea8e10)](https://www.codacy.com/app/d4nyll/jest-matcher-one-of?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=d4nyll/jest-matcher-one-of&amp;utm_campaign=Badge_Grade) [![Maintainability](https://api.codeclimate.com/v1/badges/d301a1416e9ef124382f/maintainability)](https://codeclimate.com/github/d4nyll/jest-matcher-one-of/maintainability) [![NSP Status](https://nodesecurity.io/orgs/d4nyll/projects/9b001bfb-9e74-451f-bc48-18e6bbbc8ff5/badge)](https://nodesecurity.io/orgs/d4nyll/projects/9b001bfb-9e74-451f-bc48-18e6bbbc8ff5) [![Known Vulnerabilities](https://snyk.io/test/github/d4nyll/jest-matcher-one-of/badge.svg)](https://snyk.io/test/github/d4nyll/jest-matcher-one-of) [![Greenkeeper badge](https://badges.greenkeeper.io/d4nyll/jest-matcher-one-of.svg)](https://greenkeeper.io/)
 
 A Jest matcher (`toBeOneOf`) to test if a value is one of many (like enums).
