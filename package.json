@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/d4nyll/jest-matcher-one-of.git"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "author": "Daniel Li <dan@danyll.com>",
   "license": "MIT",
